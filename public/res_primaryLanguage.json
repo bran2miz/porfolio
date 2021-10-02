@@ -11,42 +11,22 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Gallery Of Horns",
+        "startDate": "2021",
+        "description": "This is my most recent application that I created during my 301 course at Code Fellows. It demonstrates the use of state and props, as well as a bootstrap.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/gallery-of-horns/p1.png",
+          "images/portfolio/gallery-of-horns/p2.png"
         ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
+        "url": "https://beastly-horned.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
             "name": "React"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,26 +35,50 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Salmon Cookies",
+        "startDate": "2021",
+        "description": "This was a difficult project during my 201 course. Salmon Cookies is an app that allows users to add cities, the minimum and maximum customers, and the average cookie sold. Through a form, and an event handler and listener, the user is able to see their new city below the default cities and recalculates the total store cookies and the ultimate total of cookies sold for every city.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/salmon-cookies/p1.png",
+          "images/portfolio/salmon-cookies/p2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://bran2miz.github.io/cookie-stand/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          }
+        ]
+      },
+      {
+        "title": "Mad Library",
+        "startDate": "2021",
+        "description": "This is my final project for my 201 course at Code Fellows. We created a mvp entitled `Mad Librarians`, a website for the purpose of creating user stories. It contains fun stories with user input, allow saving said stories in local storage, creative logos and clickable pictures to those stories.",
+        "images": [
+          "images/portfolio/final-project/p1.png",
+          "images/portfolio/final-project/p2.jpg"
+        ],
+        "url": "https://ponceedi000.github.io/mad-librarians/html/homepage.html",
+        "technologies": [
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           }
         ]
       }
