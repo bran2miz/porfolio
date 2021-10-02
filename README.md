@@ -1,3 +1,4 @@
-# Modify this portfolio
+# Brandon Mizutan's Portfolio
 
-Make it your own! 
+See my portfolio by clicking this link!
+[Netlify](https://brandon-mizutani-portfolio.netlify.app/)
