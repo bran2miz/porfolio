@@ -1,6 +1,6 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
+      "description_header": "Pozdravy a pozdravy",
       "description": "Ahoj! Jmenuji se Brandon Mizutani. V současné době žiji v Seattlu. Než jsem se sem přestěhoval, žil jsem v Los Angeles, chodil jsem do školy a pracoval jsem v postprodukci. V průběhu minulého roku jsem měl pocit, že moje kariéra v postprodukci stagnuje, a nebyl jsem si jistý, zda je filmový a televizní průmysl něčím, čeho bych chtěl být součástí. Měl jsem čas přemýšlet o svých osobních zájmech a vášních. Začal jsem si pamatovat různé části svého života a najednou jsem si vzpomněl na své předchozí zkušenosti s vývojem webu. Od střední a střední školy jsem se začal učit html a CSS. Během svého bakalářského studia jsem si dokonce vytvořil vlastní webovou aplikaci v kurzu informatiky. Vždy jsem měl zájem o vývoj webových stránek a pamatoval jsem si, jak jsem byl nadšený, když web fungoval správně a vypadal krásně. To byl nakonec hnací motor pro připojení k Code Fellows. Moje cesta v Code Fellows nebyla snadná, ale ohromně mě posunula. Doufám, že od Code Fellows dosáhnu kariéry vývojáře softwaru s důrazem na python, pracuji s podobně smýšlejícími jednotlivci, kteří mají stejnou vášeň pro kódování.",
       "section_name": {
         "about": "O mnie",
@@ -18,19 +18,19 @@
           "images/portfolio/gallery-of-horns/p1.png",
           "images/portfolio/gallery-of-horns/p2.png"
         ],
-        "url": "",
+        "url": "https://beastly-horned.netlify.app/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-bootstrap-plain",
+            "name": "BootStrap"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       },
@@ -42,15 +42,19 @@
           "images/portfolio/salmon-cookies/p1.png",
           "images/portfolio/salmon-cookies/p2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://bran2miz.github.io/cookie-stand/",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           }
         ]
       },
@@ -62,54 +66,52 @@
           "images/portfolio/final-project/p1.png",
           "images/portfolio/final-project/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://ponceedi000.github.io/mad-librarians/html/homepage.html",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Code Fellows",
+        "title": "Student/ Software Developer",
+        "years": "05.2021 - obecnie",
         "mainTech": [
-          "Angular 8/9/10"
+          "Python"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "HTML5",
+          "ReactJS",
+          "CSS3"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "Post-Production",
+        "title": "Na volné noze",
+        "years": "04.2017 - 09.2020",
         "mainTech": [
-          "Angular 7/8"
+          "Python"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Bootstrap",
+          "HTML5",
+          "ReactJS",
+          "CSS3"
         ]
       }
     ]
