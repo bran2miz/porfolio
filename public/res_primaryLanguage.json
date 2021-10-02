@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Brandon Mizutani! Currently a student at Code Fellows! New software developer looking for a position at a technology company. It is my hope to apply my coding knowledge to develop innovative and successful computer or mobile applications.",
+      "description_header": "Greetings and Salutations!",
+      "description": "Hi there! My name is Brandon Mizutani. I currently live in Seattle. But before moving here, I was living in Los Angeles going to school for, and working in post-production. Throughout last year, I felt like my career path in post-production was stagnate, and I was unsure if the film and television industry was something that I desired being a part of.  I had time to self-reflect on my personal interests and passions. I started to remember different parts of my life, and I suddenly recalled my previous experience with web development. From middle school and high school I began learning html and CSS. I even created my own web app in my computer science course during my undergrad. I always had an interest in developing web pages, and remembered how excited I was when the website worked properly and looked beautiful. This was ultimately the driving force for joining Code Fellows. My journey at Code Fellows has not been easy, but has pushed me tremendously. From Code Fellows I hope to attain a career as a software developer with an emphasis in python, working with like-minded individuals who have the same passion for coding. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
