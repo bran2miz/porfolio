@@ -25,8 +25,8 @@
             "name": "React"
           },
           {
-            "class": "devicon-css3-plain",
-            "name": "CSS3"
+            "class": "devicon-bootstrap-plain",
+            "name": "BootStrap"
           },
           {
             "class": "devicon-javascript-plain",
@@ -85,37 +85,42 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Student/Software Developer",
+        "years": "05.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Python"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "HTML5",
+          "ReactJS",
+          "CSS3"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Post-Production",
+        "title": "Freelance",
+        "years": "04.2017 - 09.2020",
         "mainTech": [
-          "Angular 7/8"
+          "CeltX"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Final Cut Pro",
+          "Adobe"
+        ]
+      },
+      {
+        "company": "Loyola Marymount University",
+        "title": "Student/BA Asian Pacific Studies w/ a minor in Film/Television Studies",
+        "years": "09.10 - 05.14",
+        "mainTech": [
+          "BA Asian Pacific Studies w/ a minor in Film/Television Studies"
+        ],
+        "technologies": [
+          "Asian Pacfic Studies",
+          "Film and Television Theory"
         ]
       }
     ]
