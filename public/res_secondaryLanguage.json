@@ -13,8 +13,7 @@
       {
         "title": "Gallery of Horns",
         "startDate": "2021",
-        "description": "
-        Toto je moje nejnovější aplikace, kterou jsem vytvořil během svého kurzu 301 v Code Fellows. Ukazuje použití stavu a rekvizit, stejně jako bootstrap.",
+        "description": "Toto je moje nejnovější aplikace, kterou jsem vytvořil během svého kurzu 301 v Code Fellows. Ukazuje použití stavu a rekvizit, stejně jako bootstrap.",
         "images": [
           "images/portfolio/gallery-of-horns/p1.png",
           "images/portfolio/gallery-of-horns/p2.png"
@@ -65,6 +64,10 @@
         ],
         "url": "https://github.com",
         "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
