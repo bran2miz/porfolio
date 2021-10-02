@@ -89,7 +89,7 @@
         "title": "Student/Software Developer",
         "years": "05.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Python"
         ],
         "technologies": [
           "JavaScript",
@@ -109,6 +109,18 @@
         "technologies": [
           "Final Cut Pro",
           "Adobe"
+        ]
+      },
+      {
+        "company": "Loyola Marymount University",
+        "title": "Student/BA Asian Pacific Studies w/ a minor in Film/Television Studies",
+        "years": "09.10 - 05.14",
+        "mainTech": [
+          "BA Asian Pacific Studies w/ a minor in Film/Television Studies"
+        ],
+        "technologies": [
+          "Asian Pacfic Studies",
+          "Film and Television Theory"
         ]
       }
     ]

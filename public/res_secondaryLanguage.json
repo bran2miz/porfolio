@@ -113,6 +113,18 @@
           "ReactJS",
           "CSS3"
         ]
+      },
+      {
+        "company": "Loyola Marymount University",
+        "title": "Student/BA Asijsko -pacifická studia s vedlejší obor filmová/televizní studia",
+        "years": "09.10 - 05.14",
+        "mainTech": [
+          "BA Asijská tichomořská studia s vedlejší ve filmových/ televizních studiích"
+        ],
+        "technologies": [
+          "Asijská pacfická studia",
+          "Teorie filmu a televize"
+        ]
       }
     ]
   }
