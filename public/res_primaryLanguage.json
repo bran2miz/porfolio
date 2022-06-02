@@ -11,14 +11,40 @@
     },
     "projects": [
       {
-        "title": "Gallery Of Horns",
+        "title": "Mad Library",
         "startDate": "2021",
-        "description": "This is my most recent application that I created during my 301 course at Code Fellows. It demonstrates the use of state and props, as well as a bootstrap.",
+        "description": "This is my final project for my 201 course at Code Fellows. We created a mvp entitled `Mad Librarians`, a website for the purpose of creating user stories. It contains fun stories with user input, allow saving said stories in local storage, creative logos and clickable pictures to those stories.",
         "images": [
-          "images/portfolio/gallery-of-horns/p1.png",
-          "images/portfolio/gallery-of-horns/p2.png"
+          "images/portfolio/final-project/p1.png",
+          "images/portfolio/final-project/p2.jpg"
         ],
-        "url": "https://beastly-horned.netlify.app/",
+        "url": "https://ponceedi000.github.io/mad-librarians/html/homepage.html",
+        "technologies": [
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          }
+        ]
+      },
+      {
+        "title": "Celestiality",
+        "startDate": "2021",
+        "description": "This is my final project for my 301 course at Code Fellows. We created an app entitled `Celestiality`. It is designed to consolidate all the astrological information on the web onto a single app.The user can enter their date of birth and based on their input they are presented with a beautifully rendered page that displays relevant information to that date. 5 API’s are used to display the user's daily horoscope, their zodiac sign, a historical event that happened on their day of birth. There is also a journal feature that the app will also store this information for them to access at a later date." ,
+        "images": [
+          "images/portfolio/final-project-301/home.png",
+          "images/portfolio/final-project-301/main.png",
+          "images/portfolio/final-project-301/journal.png",
+          "images/portfolio/final-project-301/aboutus.png"
+        ],
+        "url": "https://celestiality.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -57,37 +83,14 @@
             "name": "HTML5"
           }
         ]
-      },
-      {
-        "title": "Mad Library",
-        "startDate": "2021",
-        "description": "This is my final project for my 201 course at Code Fellows. We created a mvp entitled `Mad Librarians`, a website for the purpose of creating user stories. It contains fun stories with user input, allow saving said stories in local storage, creative logos and clickable pictures to those stories.",
-        "images": [
-          "images/portfolio/final-project/p1.png",
-          "images/portfolio/final-project/p2.jpg"
-        ],
-        "url": "https://ponceedi000.github.io/mad-librarians/html/homepage.html",
-        "technologies": [
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS3"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML5"
-          }
-        ]
       }
+      
     ],
     "experience": [
       {
         "company": "Code Fellows",
         "title": "Student/Software Developer",
-        "years": "05.2021 - present",
+        "years": "05.2021 - 05.2022",
         "mainTech": [
           "Python"
         ],
