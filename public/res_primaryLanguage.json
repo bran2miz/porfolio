@@ -61,26 +61,52 @@
         ]
       },
       {
-        "title": "Salmon Cookies",
-        "startDate": "2021",
-        "description": "This was a difficult project during my 201 course. Salmon Cookies is an app that allows users to add cities, the minimum and maximum customers, and the average cookie sold. Through a form, and an event handler and listener, the user is able to see their new city below the default cities and recalculates the total store cookies and the ultimate total of cookies sold for every city.",
+        "title": "Battle Stocks",
+        "startDate": "2022",
+        "description": "This is my 401 midterm python project entitled Battle Stocks. It was a project designed as a stock trade app, that prompted the user to enter commands to buy and/or sell stocks, withdraw and/or deposit money, and plot the purchased stocks on a graph. And I specifically made contributions to the user prompts, input  validations, unit tests, and colorama.",
         "images": [
-          "images/portfolio/salmon-cookies/p1.png",
-          "images/portfolio/salmon-cookies/p2.png"
+          "images/portfolio/midterm-project-401/battle-stocks.png",
+          "images/portfolio/midterm-project-401/matplotlib.png"
         ],
-        "url": "https://bran2miz.github.io/cookie-stand/",
+        "url": "https://github.com/battlestocks",
         "technologies": [
           {
-            "class": "devicon-css3-plain",
-            "name": "CSS3"
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Insta Dealz",
+        "startDate": "2022",
+        "description": "This is my 401 final python project entitled Insta Dealz. It was a project designed as an e-commerce app that would allow shoppers to purchase items from a variety of categories. The user would have their own profile, adding and deleting items from their cart. The user would be able to also have a search bar that would allow the user to search for their desired items from the library.",
+        "images": [
+          "images/portfolio/final-project-401/home.png",
+          "images/portfolio/final-project-401/details.png",
+          "images/portfolio/final-project-401/cart.png",
+          "images/portfolio/final-project-401/checkout.png"
+        ],
+        "url": "https://insta-dealz-l9xugiz65-insta-deals.vercel.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "REACT"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-bulma-plain",
+            "name": "Bulma"
           },
           {
-            "class": "devicon-html5-plain",
-            "name": "HTML5"
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
           }
         ]
       }
